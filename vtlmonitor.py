@@ -12,7 +12,7 @@ API_TOKEN = os.environ['PUSHOVER_TOKEN']
 REFERENCE_TRANSFER = "21/03/2022FullFull"
 
 REFERENCE_CAUSEWAYLINK = """VTL1
-22 Feb - 28 Feb Additional Trips Start Selling From  17 Feb 2022, 10am
+1 Mar - 31 Mar Start Selling From  17 Feb 2022, 7pm
 The designated Vaccination Travel Lane (VTL) bus between Singapore and Malaysia via land transport.
 LEARN MORE
 """
